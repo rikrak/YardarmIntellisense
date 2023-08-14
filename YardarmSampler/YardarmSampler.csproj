@@ -1,0 +1,11 @@
+<Project Sdk="Yardarm.Sdk/0.3.6">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <JsonMode>Newtonsoft.Json</JsonMode>
+    <DependencyInjectionMode>Microsoft.Extensions.Http</DependencyInjectionMode>
+    <AssemblyName>MyApi.Sdk</AssemblyName>
+    <RootNamespace>MyApi.Sdk</RootNamespace>
+  </PropertyGroup>
+
+</Project>
